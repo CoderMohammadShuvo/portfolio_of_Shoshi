@@ -1,0 +1,94 @@
+body{
+    font-family: 'Potta One', cursive;
+    margin: 0px;
+}
+.welcome{
+    
+    font-size: 30px;
+}
+#hello{
+    color:orange ;
+}
+#about{
+    color: skyblue;
+}
+.name_highlite{
+    color: palevioletred;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    border-left: 7%;
+    padding-left: 7%;
+}
+
+
+body img{
+    height: 500px;
+}
+
+.top_banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 600px;
+}
+#contact{
+    text-decoration: none;
+    border: 1px solid salmon;
+    background-color: salmon;
+    padding: 10px 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    color: white;
+}
+#dream{
+    color: orchid;
+}
+#data{
+    color: rgb(230, 191, 176);
+}
+.galary{
+    float: left;
+    width: 22%;
+    border-left: 1%;
+    padding-left:2%;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px  gray;
+}
+#galary_photo{
+    text-align: center;
+    background-color: purple;
+    padding: 20px 30px;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.second_section{
+    height: 500px;
+}
+.third_section{
+    height: 390px;
+}
+.fourth_section{
+    height: 70px;
+}
+
+#last_heading{
+    background-color: pink;
+    color: white;
+    font-size: 70px;
+    padding: 20px 30px;
+}
+#lastpara{
+    color: gray;
+    text-align: center;
+}
+#maker{
+    text-align: center;
+    color: green;
+}
